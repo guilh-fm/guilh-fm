@@ -14,7 +14,8 @@ Redes | Cibersegurança | Inteligência Artificial | Dados
     <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img src = "https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
   </div>
-  
+
+#  
 ### Você também me encontra em:
   <div>
   <a href="https://www.linkedin.com/in/guilh-fm/"><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
