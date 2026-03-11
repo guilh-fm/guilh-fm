@@ -15,26 +15,25 @@ Redes | Cibersegurança | Inteligência Artificial | Dados
     <img src = "https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
   </div>
 
+#
 ### **Estatísticas**
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guilh-fm&show_icons=true&theme=chartreuse-dark&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilh-fm&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img
+  align="left"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=guilh-fm&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-br"
+/>
 
-</p>
+<img
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilh-fm&theme=chartreuse-dark&layout=compact&langs_count=9&custom_title=Tecnologias"
+/>
 
+<br clear="both"/>
+
+#
 ### Você também me encontra em:
-  <div>
-  <a href="https://www.linkedin.com/in/guilh-fm/"><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </div>
+<div>
+  <a href="https://www.linkedin.com/in/guilh-fm/"><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
